@@ -1,0 +1,3 @@
+PkgId,PkgName,IdcClass,LocalClass,PkgSize,MainExe,RunExe,AssocPkgId,PkgType,PkgVersion,IdcVersion,IdcUpdateDate,LocalUpdateDate,VDiskUpdateDate,LocalPath,LargeUrl,SmallUrl,PkgIdxCRC,LocalHotExp,LocalRecomExp,IdcHotExp,IdcRecomExp,AutoUpdate,PkgPriority,PkgOption,ServiceOption,CmdParam
+10001,"跑跑卡丁车","网络游戏",0,1660339,"SW_PlayPlay.exe","KartRider.exe",0,1,0,0,1498694958,0,0,,,,0,0,0,157,0,0,3,0,4,
+10002,"QQ幻想","网络游戏",0,4111256,"SW_PlayPlay.exe","qqfo.exe",0,1,0,0,1496282241,0,0,,,,0,0,0,17,0,0,3,0,4,
